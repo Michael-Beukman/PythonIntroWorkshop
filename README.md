@@ -57,6 +57,13 @@ This workshop was prepared by Michael Beukman, with help from Simon Rosen. It wa
 
 ## Other Resources
 Feel free to look at the following resources for more information:
-- http://ucl-cs-grad.github.io/scipython/lectures.html
+### General Python
 - https://www.learnpython.org/
+- https://www.w3schools.com/python
+- https://realpython.com/
+- https://docs.python.org/3/ (Official docs but not very easy to read)
+
+### Other
+Feel free to look at the following resources for more information:
+- http://ucl-cs-grad.github.io/scipython/lectures.html
 - https://numpy.org/learn/

@@ -58,12 +58,18 @@ This workshop was prepared by Michael Beukman, with help from Simon Rosen. It wa
 ## Other Resources
 Feel free to look at the following resources for more information:
 ### General Python
-- https://www.learnpython.org/
-- https://www.w3schools.com/python
-- https://realpython.com/
-- https://docs.python.org/3/ (Official docs but not very easy to read)
+- W3Schools: https://www.w3schools.com/python
+- LearnPython: https://www.learnpython.org/
+- GeeksForGeeks: https://www.geeksforgeeks.org/python-programming-language/
+- RealPython: https://realpython.com/
+- Official Python Page: https://docs.python.org/3/ (Official docs but not very easy to read)
 
-### Other
-Feel free to look at the following resources for more information:
-- http://ucl-cs-grad.github.io/scipython/lectures.html
-- https://numpy.org/learn/
+### NumPy
+- NumPy Official
+  - Absolute Beginners Guide: https://numpy.org/doc/stable/user/absolute_beginners.html
+  - User Guide: https://numpy.org/doc/stable/user/index.html
+  - Reference: https://numpy.org/doc/stable/reference/index.html
+- W3Schools: https://www.w3schools.com/python/numpy/
+- GeeksForGeeks: https://www.geeksforgeeks.org/numpy-tutorial/
+- RealPython: https://realpython.com/numpy-tutorial/
+- An additional Python Course http://ucl-cs-grad.github.io/scipython/lectures.html

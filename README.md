@@ -72,4 +72,19 @@ Feel free to look at the following resources for more information:
 - W3Schools: https://www.w3schools.com/python/numpy/
 - GeeksForGeeks: https://www.geeksforgeeks.org/numpy-tutorial/
 - RealPython: https://realpython.com/numpy-tutorial/
-- An additional Python Course http://ucl-cs-grad.github.io/scipython/lectures.html
+- An additional Python Course: http://ucl-cs-grad.github.io/scipython/lectures.html
+- Machine Learning Mastery: https://www.machinelearningmastery.com/
+
+### Pandas
+- Pandas Official Site (https://pandas.pydata.org/)
+  - User Guide: https://pandas.pydata.org/docs/user_guide/index.html
+  - Getting Started: https://pandas.pydata.org/docs/getting_started/index.html
+- W3Schools: https://www.w3schools.com/python/pandas/default.asp
+- GeeksForGeeks: https://www.geeksforgeeks.org/pandas-tutorial/
+
+### Matplotlib
+- Matplotlib Official Site (https://matplotlib.org)
+  - User Guide: https://matplotlib.org/stable/users/index.html
+  - Tutorials: https://matplotlib.org/stable/tutorials/index.html
+  - Examples: https://matplotlib.org/stable/gallery/index.html
+- 
